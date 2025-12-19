@@ -2,8 +2,6 @@
 
 Cerberus UI is a lightweight Roblox UI library designed for building clean, modular in-game interfaces using tabs, sections, and common UI components.
 
-It focuses on simplicity, extensibility, and ease of use rather than heavy theming or visual effects.
-
 ---
 
 ## Features
