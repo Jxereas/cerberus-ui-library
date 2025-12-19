@@ -21,7 +21,7 @@ Cerberus UI is a lightweight Roblox UI library designed for building clean, modu
 
 ---
 
-## Installation
+## Loading
 
 Load the library directly using `loadstring`:
 
